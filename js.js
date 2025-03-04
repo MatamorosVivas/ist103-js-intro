@@ -1,4 +1,4 @@
 
 function clickHeading() {
-    console.log('heading is being clicked')
+    alert('heading is being clicked')
 }    
