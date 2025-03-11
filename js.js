@@ -1,4 +1,11 @@
 
 function clickHeading() {
-    alert('heading is being clicked')
+    alert('Hello World')
 }    
+
+var firstname = 'Carlos'
+var lastname = 'Matamoros'
+var age = 19
+var gradute = false
+const nationality = 'peruvian'
+
